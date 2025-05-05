@@ -13,3 +13,12 @@
     color:#424649;
 
 }
+
+
+@media (min-width: 768px) { 
+    #vis{
+        display: none !important;
+        visibility: hidden !important; 
+        position: absolute !important;
+    }
+}
