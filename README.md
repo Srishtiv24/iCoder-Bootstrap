@@ -2,7 +2,7 @@
 
 iCoder-Bootstrap is a responsive demo website built using Bootstrap 5, showcasing multi-page navigation, layout structuring, and deployment via GitHub Pages.
 
-Link:https://srishtiv24.github.io/iCoder-Bootstrap/index.html
+Link:https://srishtiv24.github.io/iCoder-Bootstrap/icoder.html
 
 Learning Outcomes :
 1)Understand how to structure and link multiple web pages using Bootstrap navigation components
